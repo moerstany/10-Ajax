@@ -1,3 +1,19 @@
 body {
   background-image: url(https://krot.info/uploads/posts/2022-02/1644931676_3-krot-info-p-fon-pogoda-3.jpg);
+}
+
+.p1 {
+  right: auto;
+}
+.p1 img {
+  height: 70px;
+  width: 70px;
+}
+
+.p2 {
+  right: auto;
+}
+.p2 img {
+  height: 40px;
+  width: 40px;
 }/*# sourceMappingURL=style.css.map */
